@@ -1,2 +1,3 @@
-# rv2036-website
-Official website for Jiachen Project (甲辰计划).
+# 甲辰计划
+
+甲辰龙年春节发布。敬请期待。
