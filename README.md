@@ -1,4 +1,4 @@
-# RISC-V Prosperity 2036
+# Jiachen Project - RISC-V Prosperity 2036
 
 ## Background
 
@@ -20,12 +20,9 @@ RISC-V Prosperity 2036 aims to realize a mature RISC-V’s hardware and software
 
 ## Project Home
 
-[https://rv2036.org](https://rv2036.org)
+- Website: [https://rv2036.org](https://rv2036.org)
+- GitHub: [gh/rv2036/](https://github.com/rv2036/)
 
-## Joint Initiators: ASE Lab, PLCT Lab, and SOPHGO
- 
-The Automated Software Engineering Lab (ASE Lab) was founded in 2005. The lab strives for intellectual leadership in software tooling and commits to a long-term investment in automation and intelligent software application innovations. The ASE Lab’s scientific research outputs are well renowned in the global field of software research. The Lab’s joint project with Microsoft, Pex, has been integrated in Visual Studio’s IntelliTest suite since 2025. ASE Lab is committed to training new field experts in technological innovations in foundational software.
+## Members
 
-The Programming Language and Compiler Technologies Lab (PLCT Lab) was founded in 2019, with a focus to lead research and adoption in open source compiler technologies and foundational toolchain and runtime software infrastructure. The PLCT Lab is well equipped both technically and adminsitratively to organize development, maintenance, and management of key software infrastructures. The Lab is committed to train over 10,000 top-tier experts in compiler technology and disseminate compiler technological knowledge in China.
-
-SOPHGO is a RISC-V and TPU compute hardware vendor that strives to become a world-class provider for general computing power. SOPHGO is committed to a open source and open standard vision, joinining industry partners in implementing and manufacturing high-performance RISC-V general computing products. Strategy-wise, SOPHGO follows a “cloud, edge, and endpoint” product matrix, designing computing products and full solutions for application in datacenters, AIGC, city management, intelligent manufacturing, smart terminals, and many more scenarios.
+Meet our members :[gh/rv2036/jiachen-community](https://github.com/rv2036/jiachen-community/blob/main/members.md)
