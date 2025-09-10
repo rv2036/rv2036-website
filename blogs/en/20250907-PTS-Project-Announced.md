@@ -23,7 +23,8 @@ The following software is initially planned for monitoring. Software of interest
 
 **Compilation Toolchain**
 - GNU Toolchain: Includes performance of compilers for languages such as C/C++ and Fortran.
-- Clang/LLVM: Includes performance of compilers for languages such as Clang and Flang. - Rust Toolchain
+- Clang/LLVM: Includes performance of compilers for languages such as Clang and Flang. 
+- Rust Toolchain
 
 **Virtual Machine**
 - V8
@@ -91,17 +92,20 @@ Starting in 2025Q4, PTS will release the "RISC-V Performance Improvement Report"
 - Baseline Raspberry Pi 4B goes online.
 
 **2025Q4**
+
 - The first issue of the "RISC-V Performance Improvement Report" is released.
 - Spidermonkey enters observation range.
 - GNU Toolchain enters observation range.
 - Clang/LLVM enters observation range.
-- SPEC CPU 2006/2017 enters observation range. - Xiangshan Nanhu quad-core launched
+- SPEC CPU 2006/2017 enters observation range. 
+- Xiangshan Nanhu quad-core launched
 - Super Rui DP100 (Milk-V Titan) launched
 - ESWIN EIC7700 SBC launched
 - Mac mini M1 launched
 - Raspberry Pi 5 launched
 
-**2026Q1*8
+**2026Q1**
+
 - A210 device launched
 - Xiangshan Kunming Lake series chip launched
 - Blue Core CPU launched (TBD)
@@ -119,7 +123,8 @@ Starting in 2025Q4, PTS will release the "RISC-V Performance Improvement Report"
 - All data center-focused evaluation metrics now under observation.
 
 **2027Q1**
-- Entered stable maintenance status. - Evaluate over 500 hardware devices, track over 100 software projects, and measure over 1,000 performance metrics.
+- Entered stable maintenance status. 
+- Evaluate over 500 hardware devices, track over 100 software projects, and measure over 1,000 performance metrics.
 - Add at least two 128-core RISC-V processors.
 
 ## Collaboration with Open Source Communities and Teams
