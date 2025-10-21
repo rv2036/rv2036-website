@@ -1,6 +1,6 @@
 A Big Step: After 11 months of review, GitLab officially merged RISC-V Runner support!
 
-TL;DR: GitHub Runners now have official RISC-V binary versions! This means that hundreds of thousands of open source software projects hosted by GitLab will be able to more easily incorporate RISC-V into their CI/CD processes. The RISC-V software ecosystem will usher in another major growth.
+TL;DR: GitLab Runners now have official RISC-V binary versions! This means that hundreds of thousands of open source software projects hosted by GitLab will be able to more easily incorporate RISC-V into their CI/CD processes. The RISC-V software ecosystem will usher in another major growth.
 
 GitLab, a popular open source end-to-end software development platform, hosts well-known projects such as Wireshark, KiCAD, QEMU, and wget. Its community open source version supports well-known open source projects such as GNOME, KDE, Debian, Arch, and Kali Linux. Today, RISC-V runner support was added to its official repository. The native RISC-V runner means faster running speed and more realistic test environment, which is a breakthrough in common code hosting platforms[1].
 
