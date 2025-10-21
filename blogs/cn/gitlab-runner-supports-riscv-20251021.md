@@ -16,11 +16,11 @@ Contributor profile: Meng Zhuo is a PLCT Lab [7] development engineer, Go langua
 
 References:
 
-[1] https://en.wikipedia.org/wiki/Comparison_of_source-code-hosting_facilities)
-[2] https://gitlab.com/gitlab-org/gitlab-runner/-/merge_requests/5131
-[3] https://github.com/marketplace/actions/setup-riscv-gnu-toolchain
-[4] https://github.com/marketplace/actions/run-on-architecture-riscv64-alpine
-[5] https://riscv.builders/
-[6] https://github.com/mengzhuo
-[7] PLCT Lab is affiliated with the Intelligent Software Research Center (ISRC) of the Institute of Software, Chinese Academy of Sciences (ISCAS).
-[8] [zh_cn] [Meng Zhuo: the way Go to RISC-V](https://mp.weixin.qq.com/s/cJ8AJjPEh-DqQBCKqPNsfg)
+- [1] https://en.wikipedia.org/wiki/Comparison_of_source-code-hosting_facilities)
+- [2] https://gitlab.com/gitlab-org/gitlab-runner/-/merge_requests/5131
+- [3] https://github.com/marketplace/actions/setup-riscv-gnu-toolchain
+- [4] https://github.com/marketplace/actions/run-on-architecture-riscv64-alpine
+- [5] https://riscv.builders/
+- [6] https://github.com/mengzhuo
+- [7] PLCT Lab is affiliated with the Intelligent Software Research Center (ISRC) of the Institute of Software, Chinese Academy of Sciences (ISCAS).
+- [8] [zh_cn] [Meng Zhuo: the way Go to RISC-V](https://mp.weixin.qq.com/s/cJ8AJjPEh-DqQBCKqPNsfg)
