@@ -36,3 +36,15 @@ exclude:
 logo: /assets/images/jiachen-logo-1x3.png
 
 search: true
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/lazyparser"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/rv2036"
+    - label: "Forum"
+      icon: "fab fa-fw fa-discourse"
+      url: "https://forum.rv2036.org"
