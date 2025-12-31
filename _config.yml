@@ -19,7 +19,10 @@ remote_theme: mmistakes/minimal-mistakes@4.27.3
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-  - jekyll-include-cache # Add this line
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
 
 exclude:
   - .sass-cache/
