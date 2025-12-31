@@ -1,0 +1,14 @@
+main:
+  - title: "About"
+    url: '#'
+  - title: "Vision"
+    url: '#'
+  - title: "Members"
+    url: '#'
+  - title: "Projects"
+    url: '#'
+  - title: "Blogs"
+    url: '#'
+  - title: "Forum"
+    url: https://forum.rv2036.org
+    target: _blank
