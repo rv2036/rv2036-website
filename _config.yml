@@ -34,3 +34,5 @@ exclude:
   - vendor/ruby/
 
 logo: /assets/images/jiachen-logo-1x3.png
+
+search: true
