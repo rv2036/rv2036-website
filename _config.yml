@@ -15,7 +15,7 @@ url: "https://rv2036.org"
 # Build settings
 #theme: minima
 # theme: minimal-mistakes-jekyll
-remote_theme: mmistakes/minimal-mistakes@latest
+remote_theme: mmistakes/minimal-mistakes@4.27.3
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
