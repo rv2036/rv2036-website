@@ -32,3 +32,5 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+logo: /assets/images/jiachen-logo-1x3.png
