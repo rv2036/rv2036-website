@@ -4,10 +4,12 @@ main:
   - title: "Members"
     url: '/members'
   - title: "Projects"
-    url: 'https://github.com/orgs/rv2036/repositories'
-    target: _blank
+    url: '/Projects'
   - title: "Blog"
     url: '/blog'
+  - title: "Repositories"
+    url: 'https://github.com/orgs/rv2036/repositories'
+    target: _blank
   - title: "Forum"
     url: 'https://forum.rv2036.org'
     target: _blank
