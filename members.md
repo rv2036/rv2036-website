@@ -58,6 +58,7 @@ permalink: /members
 | 知合计算 | Zhihe Computing | [Official Website](http://www.zhcomputing.com) | [Announcement](https://mp.weixin.qq.com/s/4IT0uOUDz7Z3MhbuSIjmLg) | [Repost](https://mp.weixin.qq.com/s/ZkxkzIljw6_dkOR8nNEfgg) |
 | RISC-V中国社区（CNRV）  | China RISC-V Community (CNRV) | [Official Website](https://cnrv.io) | [Announcement](https://mp.weixin.qq.com/s/njgdEJkR43JJGJlbKaPtXw) | [Repost](https://mp.weixin.qq.com/s/ellvWA09zn1Fb1mkxNJSxA) |
 | OSYX Technologies  | OSYX Technologies | [Official Website](https://osyx.tech/) | - | [Announcement](https://mp.weixin.qq.com/s/Q_kCc17Xt9ZPZmDeWe9xJw) |
+| （江苏）RISC-V开源芯片产业创新中心  | - | - | [Announcement](https://mp.weixin.qq.com/s/B475WusTKbxeW9qhbDyQCw) | [Repost](https://mp.weixin.qq.com/s/ELb30-XJxA4BvZAqnI4Ffw) |
 
 {% comment %}
 
