@@ -2,7 +2,8 @@
 layout: single
 title:  "里程碑！GitLab 合入 RISC-V Runner 支持"
 date:   2025-10-21 18:18:18 +0800
-categories: blog ecosystem news chinese
+categories: blog
+tags: ecosystem news chinese
 
 excerpt: "原生的 RISC-V runner 意味着更快的运行速度，更真实的测试环境，这在常见代码托管平台中[1]属于突破性进展。"
 ---

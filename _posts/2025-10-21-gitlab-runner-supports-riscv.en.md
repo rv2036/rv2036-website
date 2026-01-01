@@ -2,7 +2,8 @@
 layout: single
 title:  "A Big Step for RISC-V: GitLab officially merged RISC-V Runner support"
 date:   2025-10-21 18:18:18 +0800
-categories: blog ecosystem news english
+categories: blog
+tags: ecosystem news english
 
 excerpt: "This means that hundreds of thousands of open source software projects
   hosted by GitLab will be able to more easily incorporate RISC-V into their
