@@ -57,7 +57,7 @@ permalink: /members
 | 光电通 | GuangDianTong | [Official Website](https://www.toec.com) | [Announcement](https://mp.weixin.qq.com/s/N-WVmMz9gG9u2Z_J5nbxTA) | [Repost](https://mp.weixin.qq.com/s/d6VVrqW4Xk9c8B39MMUnOg) |
 | 知合计算 | Zhihe Computing | [Official Website](http://www.zhcomputing.com) | [Announcement](https://mp.weixin.qq.com/s/4IT0uOUDz7Z3MhbuSIjmLg) | [Repost](https://mp.weixin.qq.com/s/ZkxkzIljw6_dkOR8nNEfgg) |
 | RISC-V中国社区（CNRV）  | China RISC-V Community (CNRV) | [Official Website](https://cnrv.io) | [Announcement](https://mp.weixin.qq.com/s/njgdEJkR43JJGJlbKaPtXw) | [Repost](https://mp.weixin.qq.com/s/ellvWA09zn1Fb1mkxNJSxA) |
-
+| OSYX Technologies  | OSYX Technologies | [Official Website](https://osyx.tech/) | - | [Announcement](https://mp.weixin.qq.com/s/Q_kCc17Xt9ZPZmDeWe9xJw) |
 
 ## Individual members
 
