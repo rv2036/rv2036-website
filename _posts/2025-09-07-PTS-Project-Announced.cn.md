@@ -3,6 +3,8 @@ layout: single
 title:  "甲辰计划启动RISC-V开源软件性能跟踪平台（PTS）建设"
 date:   2025-09-07 18:18:18 +0800
 categories: blog projects infra news chinese
+
+excerpt: "关注全球重要开源软件RISC-V性能演化趋势并发布路线图；诚邀RISC-V厂商捐赠机器参与共建"
 ---
 是时候了：甲辰计划启动RISC-V开源软件性能跟踪平台（PTS）建设，关注全球重要开源软件RISC-V性能演化趋势并发布路线图；诚邀RISC-V厂商捐赠机器参与共建
 

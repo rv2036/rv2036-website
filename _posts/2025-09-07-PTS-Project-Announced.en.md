@@ -3,6 +3,8 @@ layout: single
 title:  "It’s time: The Jiachen Project has launched the construction of the RISC-V open source software Performance Tracking System (PTS)"
 date:   2025-09-07 18:18:18 +0800
 categories: blog projects infra news english
+
+excerpt: "The idea of the RISC-V open source software performance tracking system (PTS) was first born in 2020 [1]."
 ---
 
 # It’s time: The Jiachen Project has launched the construction of the RISC-V open source software Performance Tracking System (PTS)
