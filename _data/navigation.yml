@@ -3,7 +3,6 @@ main:
     url: '#'
   - title: "Members"
     url: '/members'
-    target: _blank
   - title: "Projects"
     url: 'https://github.com/orgs/rv2036/repositories'
     target: _blank
