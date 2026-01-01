@@ -9,7 +9,7 @@ permalink: blog/gitlab-runner-supports-riscv-cn
 excerpt: "原生的 RISC-V runner 意味着更快的运行速度，更真实的测试环境，这在常见代码托管平台中[1]属于突破性进展。"
 ---
 
-# 里程碑！历经11个月审核，GitLab官方今日合入RISC-V Runner支持
+历经11个月审核，GitLab官方今日合入RISC-V Runner支持。
 
 GitLab，一个受欢迎的开源端到端的软件开发平台，自身托管着 Wireshark，KiCAD，QEMU，wget 等知名项目，其社区开源版本支撑着 GNOME，KDE，Debian，Arch，Kali Linux 等著名开源项目。今天在其官方仓库添加了RISC-V runner 支持，原生的 RISC-V runner 意味着更快的运行速度，更真实的测试环境，这在常见代码托管平台中[1]属于突破性进展。
 

@@ -12,7 +12,7 @@ excerpt: "This means that hundreds of thousands of open source software projects
 
 ---
 
-# A Big Step: After 11 months of review, GitLab officially merged RISC-V Runner support!
+After 11 months of review, GitLab officially merged RISC-V Runner support!
 
 TL;DR: GitLab Runners now have official RISC-V binary versions! This means that hundreds of thousands of open source software projects hosted by GitLab will be able to more easily incorporate RISC-V into their CI/CD processes. The RISC-V software ecosystem will usher in another major growth.
 

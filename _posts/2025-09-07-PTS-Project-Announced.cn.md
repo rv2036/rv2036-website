@@ -11,6 +11,7 @@ excerpt: "关注全球重要开源软件RISC-V性能演化趋势并发布路线�
 是时候了：甲辰计划启动RISC-V开源软件性能跟踪平台（PTS）建设，关注全球重要开源软件RISC-V性能演化趋势并发布路线图；诚邀RISC-V厂商捐赠机器参与共建
 
 ## PTS的背景、使命、历史重要性
+
 RISC-V开源软件性能跟踪平台（Performance Tracking System, PTS）的想法最早诞生于2020年[1]，当时甲辰计划主理人吴伟先生作为RISC-V国际基金会的 Code Speed SIG 的联席主席，希望能够建设一个类似 Mozilla 的 `AreWeFastYet.com` 平台一样的可视化的愿系统，来跟踪包括 JavaScript Engines 在内的各种重要的开源软件在 RISC-V 芯片和系统上的性能。当时 RISC-V IP 和芯片的发展还聚焦在嵌入式领域，能够运行 Linux 桌面环境的开发板只有 SiFive Unmatched 等少量型号。
 
 在当时PTS项目还是比较超前的，最大的顾虑也包括了如果过早的公开RISC-V芯片和Arm/X86的性能差距，有可能会对RISC-V的全球生态发展势头起到计划外的负面作用。
