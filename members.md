@@ -7,8 +7,8 @@ permalink: /members
 
 ## Organization Members (Company, Research Institution, Industry Association, FOSS Community)
 
-|  Name (Chinese)  | Name (English) |     Website     |   Announcements   | Posts on Jiachen Wechat Account |
-| ---------------  | -------------- | --------------- | ----------------- | ------------------------------- |
+|  Name (Chinese)  | Name (English) |     Website     | Announcements    | Reposts on Jiachen Wechat|
+| ---------------  | -------------- | --------------- | ---------------- | ------------------------------- |
 | PLCT 实验室  | PLCT Lab, ISCAS | [Github](https://github.com/plctlab) | [Announcement](https://mp.weixin.qq.com/s/msP5f3VAgjAmuzc9TCE1Yg) | [Repost](https://mp.weixin.qq.com/s/2MKFuHrTn22npnPqTk4oOg) |
 | ASE 实验室  | ASE Lab, Peking University | - | [Announcement](https://mp.weixin.qq.com/s/msP5f3VAgjAmuzc9TCE1Yg) | [Repost](https://mp.weixin.qq.com/s/2MKFuHrTn22npnPqTk4oOg) |
 | 算能  | Sophgo | Sophgo.com | [Announcement](https://mp.weixin.qq.com/s/msP5f3VAgjAmuzc9TCE1Yg) | [Repost](https://mp.weixin.qq.com/s/2MKFuHrTn22npnPqTk4oOg) |
