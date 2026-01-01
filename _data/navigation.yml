@@ -7,8 +7,8 @@ main:
     url: '#'
   - title: "Projects"
     url: '#'
-  - title: "Blogs"
-    url: '/blogs'
+  - title: "Blog"
+    url: '/blog'
   - title: "Forum"
     url: https://forum.rv2036.org
     target: _blank
