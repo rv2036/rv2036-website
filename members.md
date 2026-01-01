@@ -59,6 +59,15 @@ permalink: /members
 | RISC-V中国社区（CNRV）  | China RISC-V Community (CNRV) | [Official Website](https://cnrv.io) | [Announcement](https://mp.weixin.qq.com/s/njgdEJkR43JJGJlbKaPtXw) | [Repost](https://mp.weixin.qq.com/s/ellvWA09zn1Fb1mkxNJSxA) |
 | OSYX Technologies  | OSYX Technologies | [Official Website](https://osyx.tech/) | - | [Announcement](https://mp.weixin.qq.com/s/Q_kCc17Xt9ZPZmDeWe9xJw) |
 
+{% comment %}
+
+Table Row Template
+
+| ChnName  | EngName | [Official Website]() | [Announcement]() | [Repost]() |
+| ChnName  | EngName | [Official Website]() | - | [Announcement]() |
+
+{% endcomment %}
+
 ## Individual members
 
 | Name      | GitHub or Blog  | Projects working on | Wishes and Goals |        Extra info |
@@ -68,3 +77,11 @@ permalink: /members
 | Wang Xiaoyun | [jiuyewxy](https://github.com/jiuyewxy) | ISCAS               | RISC-V based robotics applications | Engineer of ISCAS, openEuler ROS SIG Maintainer |
 | Meng Zhuo | [mengzhuo](https://github.com/mengzhuo/) | Jiachen project | RISC-V Prosperity 2036 (Cloud native/ Go) |  |
 | Guodong Xu | [docularxu](https://github.com/docularxu) | Linux Kernel | All RISC-V chips are formally upstreamed to the Linux kernel mainline | Linux Kernel & Platform Software, Tech–Biz Hybrid, Open Source |
+
+{% comment %}
+
+Table Row Template
+
+| (Nick)Name | [github-id](https://github.com/) | projects | wishlist | extra |
+
+{% endcomment %}
