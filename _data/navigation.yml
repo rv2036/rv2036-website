@@ -1,14 +1,14 @@
 main:
-  - title: "About"
-    url: '#'
   - title: "Vision"
     url: '#'
   - title: "Members"
-    url: '#'
+    url: '/members'
+    target: _blank
   - title: "Projects"
-    url: '#'
+    url: 'https://github.com/orgs/rv2036/repositories'
+    target: _blank
   - title: "Blog"
     url: '/blog'
   - title: "Forum"
-    url: https://forum.rv2036.org
+    url: 'https://forum.rv2036.org'
     target: _blank
