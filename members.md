@@ -16,7 +16,7 @@ permalink: /members
 | RT-Thread  | RT-Thread | [Official Website](https://www.rt-thread.org) | [Announcement](https://mp.weixin.qq.com/s/MwmBHf8Yb6Rmk6o7Ndie6w) | [Repost](https://mp.weixin.qq.com/s/qWuH8TcCLFnRfHBdJO6xrg) |
 | 苦芽科技 | Kubuds Technology | [Official Website](https://kubuds.io) | [Announcement](https://mp.weixin.qq.com/s/MR_OUHR4rcztoDt9_k9YBw) | [Repost](https://mp.weixin.qq.com/s/kW1NKYvWQSxxccRIk_S68g) |
 | 润开鸿  | HiHope | http://www.hihope.org/ | [Announcement](https://mp.weixin.qq.com/s/YZq1C_1DnPVKzN1bqH_tpA) | [Repost](https://mp.weixin.qq.com/s/nfGMsxH4ASI44lC0kbW9hw) |
-| 秦派软件  | Pulsarware® Technologies | [Official Website](https://atomdb.com/about/index.html) | [Announcement](https://mp.weixin.qq.com/s/eKlsLT2UOcKp_wJ8ZbjxYg) | [Repost](https://mp.weixin.qq.com/s/wDvPFmTOofqiLI7IM_Yduw) |
+| 秦派软件  | Qinware® Technologies Ltd. | [Official Website](https://qinware.com) | [Announcement](https://mp.weixin.qq.com/s/eKlsLT2UOcKp_wJ8ZbjxYg) | [Repost](https://mp.weixin.qq.com/s/wDvPFmTOofqiLI7IM_Yduw) |
 | 芯来科技  | Nuclei System Technology | [Official Website](https://www.nucleisys.com) | [Announcement](https://mp.weixin.qq.com/s/7N8KUwNStA-NqTX3KRdJGg) | [Repost](https://mp.weixin.qq.com/s/jf3OQ1J-UuJp_kmMfuvLkQ) |
 | 迅龙软件  | Xunlong Software | [Official Website](http://www.xunlong.tv) | [Announcement](https://mp.weixin.qq.com/s/97lJNUotzBtn2bA62L4Bwg) | [Repost](https://mp.weixin.qq.com/s/n0Yh005AkpscTMYGcgex2Q) |
 | openKylin  | openKylin | [Official Website](https://www.openkylin.top) | [Announcement](https://mp.weixin.qq.com/s/lwp1sgkxsewayQi-6aL9Cw) | [Repost](https://mp.weixin.qq.com/s/LUKWczceWEbkJkrZ5t9PrQ) |
