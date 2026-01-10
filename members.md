@@ -79,6 +79,7 @@ Table Row Template
 | Wang Xiaoyun | [jiuyewxy](https://github.com/jiuyewxy) | ISCAS               | RISC-V based robotics applications | Engineer of ISCAS, openEuler ROS SIG Maintainer |
 | Meng Zhuo | [mengzhuo](https://github.com/mengzhuo/) | Jiachen project | RISC-V Prosperity 2036 (Cloud native/ Go) |  |
 | Guodong Xu | [docularxu](https://github.com/docularxu) | Linux Kernel | All RISC-V chips are formally upstreamed to the Linux kernel mainline | Linux Kernel & Platform Software, Tech–Biz Hybrid, Open Source |
+| Yukari Chiba | [YukariChiba](https://github.com/YukariChiba) | deepin & eweOS | Tier-1 support for RISC-V in most everyday software and linux distros | eweOS Developer, deepin Developer, deepin-ports SIG Maintainer |
 
 {% comment %}
 
