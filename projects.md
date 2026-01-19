@@ -6,6 +6,14 @@ permalink: /projects
 
 # Projects under Jiachen Project
 
+## CV184X Joint Develop Project
+
+**CV184X Joint Develop Project** is a collaborative ecosystem development initiative under the Jiachen Project, focused on advancing the CV184X series AI vision processors through joint development efforts. This project brings together developers, companies, and community members to collectively enhance the CV184X ecosystem, software stacks, and application solutions.
+
+The ecosystem development for CV184X is coordinated by the **Jiachen Project**, fostering collaboration among ecosystem partners to drive innovation and adoption of CV184X processors in various applications.
+
+For detailed technical specifications and documentation, please visit the [CV184X Page](/cv184x).
+
 ## Open Source Internship Joint Recruitment and Training
 
 **Open Source Internship Joint Recruitment and Training** was issued by Mr. Wei Wu, the director of the Jiachen Project, to the members of the Jiachen Project, the motive and starting point are "members use minimal financial and management resources to achieve the accelerated development of RISC-V ecosystem goals that are beneficial to their own companies", drawing on the Jiachen Project director’s 10 years of experience in large-scale intern training, and leveraging the work accumulated by the PLCT Lab in the open-source community, starting from the Year of the Dragon in the Jiachen cycle, more than 2,000 internship positions will be made available each year, with over 1,000 students recruited to participate in internships.
@@ -16,16 +24,16 @@ Please refer to the [Open Source Intern Joint Recruitment and Training Project i
 
 The following are news related to this project:
 
-* September 13, 2024 | [Jiachen Project Joint Internship Position List (September 2024) (in Chinese)](https://mp.weixin.qq.com/s/8NB9zDdfSChEnAieB_RmOQ)
-* September 6, 2024 | [\[Internship Opportunity\] J130 BL808 Rust Support Library Development Intern (in Chinese)](https://mp.weixin.qq.com/s/wviE3tzX39RATBc3ww1rdQ)
-* August 19, 2024 | [Jiachen Project · Open Source Intern "Morning and Evening" Joint Job Fair | Co-event with the RISC-V Summit China (in Chinese)](https://mp.weixin.qq.com/s/kpfDc0wMopltc9nlMIBjfw)
-* July 19, 2024 | [\[Internship\] RISC-V development board software ecosystem joint observation (J129) (in Chinese)](https://mp.weixin.qq.com/s/fkSeWetwLVStrXZFiJCOww)
-* July 14, 2024 | [The Jiachen Project announces its recognition of the "One Student One Chip" plan's CBAS new certification system, where certified students automatically receive internship offers from the Open Source Intern Joint Training Program (in Chinese)](https://mp.weixin.qq.com/s/Sd-4PDHqPyhwTGKMxKD9iA)
-* June 22, 2024 | [The Jiachen Project opens the J128 internship position for Deepin operating system development (RISC-V architecture) (in Chinese)](https://mp.weixin.qq.com/s/0YQ_4I-6VwZryp1eV54H7Q)
-* June 21, 2024 | [The Jiachen Project opens the J127 joint internship position for Xiangshan laptop research and development (embedded basic software development direction) (in Chinese)](https://mp.weixin.qq.com/s/ZF9ynXd642VyJk2_rIcJqQ)
-* June 18, 2024 | [The Jiachen Project opens the J123 TPU-MLIR joint internship position (AI compiler development) (in Chinese)](https://mp.weixin.qq.com/s/6i0a5QPr_u_Ze2URr7I-bg)
-* June 15, 2024 | [The Jiachen Project opens the J126 joint internship position to support the openKylin community's ROS and RISC-V ecosystem development (in Chinese)](https://mp.weixin.qq.com/s/xlY4ZgY0lyGoCJOF6c-ZQg)
-* June 12, 2024 | [Kubuds Technology provides 50 internship positions to support the Euler ROS SIG in expanding the RISC-V robotics software ecosystem (in Chinese)](https://mp.weixin.qq.com/s/mcrEudqVTypSw2fvu0SIRA)
+- September 13, 2024 | [Jiachen Project Joint Internship Position List (September 2024) (in Chinese)](https://mp.weixin.qq.com/s/8NB9zDdfSChEnAieB_RmOQ)
+- September 6, 2024 | [\[Internship Opportunity\] J130 BL808 Rust Support Library Development Intern (in Chinese)](https://mp.weixin.qq.com/s/wviE3tzX39RATBc3ww1rdQ)
+- August 19, 2024 | [Jiachen Project · Open Source Intern "Morning and Evening" Joint Job Fair | Co-event with the RISC-V Summit China (in Chinese)](https://mp.weixin.qq.com/s/kpfDc0wMopltc9nlMIBjfw)
+- July 19, 2024 | [\[Internship\] RISC-V development board software ecosystem joint observation (J129) (in Chinese)](https://mp.weixin.qq.com/s/fkSeWetwLVStrXZFiJCOww)
+- July 14, 2024 | [The Jiachen Project announces its recognition of the "One Student One Chip" plan's CBAS new certification system, where certified students automatically receive internship offers from the Open Source Intern Joint Training Program (in Chinese)](https://mp.weixin.qq.com/s/Sd-4PDHqPyhwTGKMxKD9iA)
+- June 22, 2024 | [The Jiachen Project opens the J128 internship position for Deepin operating system development (RISC-V architecture) (in Chinese)](https://mp.weixin.qq.com/s/0YQ_4I-6VwZryp1eV54H7Q)
+- June 21, 2024 | [The Jiachen Project opens the J127 joint internship position for Xiangshan laptop research and development (embedded basic software development direction) (in Chinese)](https://mp.weixin.qq.com/s/ZF9ynXd642VyJk2_rIcJqQ)
+- June 18, 2024 | [The Jiachen Project opens the J123 TPU-MLIR joint internship position (AI compiler development) (in Chinese)](https://mp.weixin.qq.com/s/6i0a5QPr_u_Ze2URr7I-bg)
+- June 15, 2024 | [The Jiachen Project opens the J126 joint internship position to support the openKylin community's ROS and RISC-V ecosystem development (in Chinese)](https://mp.weixin.qq.com/s/xlY4ZgY0lyGoCJOF6c-ZQg)
+- June 12, 2024 | [Kubuds Technology provides 50 internship positions to support the Euler ROS SIG in expanding the RISC-V robotics software ecosystem (in Chinese)](https://mp.weixin.qq.com/s/mcrEudqVTypSw2fvu0SIRA)
 
 {% endcomment %}
 
@@ -39,18 +47,18 @@ The detailed issuance information of the RISC-V Builder Mutual Recognition Netwo
 
 The following are news related to this project:
 
-* September 5, 2024 | [The Jiachen Project issued Endorsement No. 012: JIANG Zhouqi (洛佳 luojia) (in Chinese)](https://mp.weixin.qq.com/s/lz8V7BgNrZijMUuGwmbGcQ)
-* July 11, 2024 | [The Jiachen Project issued Endorsement No. 011: LUO Yunxiang (in Chinese)](https://mp.weixin.qq.com/s/sYC0NNqfQF482XY3IGwEsQ)
-* July 11, 2024 | [The Jiachen Project issued Endorsement No. 010: CHEN Yangyu (in Chinese)](https://mp.weixin.qq.com/s/vmZodSPWwJhMaEYthJevFw)
-* July 7, 2024 | [The Jiachen Project issued Endorsement No. 009: dram (in Chinese)](https://mp.weixin.qq.com/s/LyrJxbRGDWMUaoDZgGj9Lw)
-* July 6, 2024 | [The Jiachen Project issued Endorsement No. 008: WANG Bingzhen (in Chinese)](https://mp.weixin.qq.com/s/D16xX57AA6H8JQowhjryyw)
-* July 5, 2024 | [The Jiachen Project issued Endorsement No. 007: ZHENG Yingwei (in Chinese)](https://mp.weixin.qq.com/s/ph6h8k655ynUQsAixAZpFQ)
-* July 4, 2024 | [The Jiachen Project issued Endorsement No. 006: Kubuds Technology CTO WANG Junqiang (in Chinese)](https://mp.weixin.qq.com/s/F0boNcHVJBE_4k35Rs3VKw)
-* July 4, 2024 | [The Jiachen Project issued Endorsement No. 005: XING Mingjie (in Chinese)](https://mp.weixin.qq.com/s/5vHZC6SGfbMVatgRqG5Dgg)
-* July 2, 2024 | [The Jiachen Project issued Endorsement No. 004: V8 RISC-V Maintainer LU Yahan (in Chinese)](https://mp.weixin.qq.com/s/V_yjLjquOjt832-m6kW5Lg)
-* July 1, 2024 | [The Jiachen Project director issued Endorsement No. 003: Kubuds Technology CEO LI Weiwei (in Chinese)](https://mp.weixin.qq.com/s/Hgs1WieXUDDup802ieW7bQ)
-* June 30, 2024 | [The Jiachen Project director issued Endorsement No. 002: RISC-V Ambassador FU Wei (in Chinese)](https://mp.weixin.qq.com/s/lyQX87e7fV0becVwCnZtWw)
-* June 29, 2024 | [The Jiachen Project's "RISC-V Builder Mutual Recognition Network" has begun its development and planning, director Wei Wu issued Endorsement No. 001 (in Chinese)](https://mp.weixin.qq.com/s/OQ5liBmSSA1zmEyDMvzn7A)
+- September 5, 2024 | [The Jiachen Project issued Endorsement No. 012: JIANG Zhouqi (洛佳 luojia) (in Chinese)](https://mp.weixin.qq.com/s/lz8V7BgNrZijMUuGwmbGcQ)
+- July 11, 2024 | [The Jiachen Project issued Endorsement No. 011: LUO Yunxiang (in Chinese)](https://mp.weixin.qq.com/s/sYC0NNqfQF482XY3IGwEsQ)
+- July 11, 2024 | [The Jiachen Project issued Endorsement No. 010: CHEN Yangyu (in Chinese)](https://mp.weixin.qq.com/s/vmZodSPWwJhMaEYthJevFw)
+- July 7, 2024 | [The Jiachen Project issued Endorsement No. 009: dram (in Chinese)](https://mp.weixin.qq.com/s/LyrJxbRGDWMUaoDZgGj9Lw)
+- July 6, 2024 | [The Jiachen Project issued Endorsement No. 008: WANG Bingzhen (in Chinese)](https://mp.weixin.qq.com/s/D16xX57AA6H8JQowhjryyw)
+- July 5, 2024 | [The Jiachen Project issued Endorsement No. 007: ZHENG Yingwei (in Chinese)](https://mp.weixin.qq.com/s/ph6h8k655ynUQsAixAZpFQ)
+- July 4, 2024 | [The Jiachen Project issued Endorsement No. 006: Kubuds Technology CTO WANG Junqiang (in Chinese)](https://mp.weixin.qq.com/s/F0boNcHVJBE_4k35Rs3VKw)
+- July 4, 2024 | [The Jiachen Project issued Endorsement No. 005: XING Mingjie (in Chinese)](https://mp.weixin.qq.com/s/5vHZC6SGfbMVatgRqG5Dgg)
+- July 2, 2024 | [The Jiachen Project issued Endorsement No. 004: V8 RISC-V Maintainer LU Yahan (in Chinese)](https://mp.weixin.qq.com/s/V_yjLjquOjt832-m6kW5Lg)
+- July 1, 2024 | [The Jiachen Project director issued Endorsement No. 003: Kubuds Technology CEO LI Weiwei (in Chinese)](https://mp.weixin.qq.com/s/Hgs1WieXUDDup802ieW7bQ)
+- June 30, 2024 | [The Jiachen Project director issued Endorsement No. 002: RISC-V Ambassador FU Wei (in Chinese)](https://mp.weixin.qq.com/s/lyQX87e7fV0becVwCnZtWw)
+- June 29, 2024 | [The Jiachen Project's "RISC-V Builder Mutual Recognition Network" has begun its development and planning, director Wei Wu issued Endorsement No. 001 (in Chinese)](https://mp.weixin.qq.com/s/OQ5liBmSSA1zmEyDMvzn7A)
 
 {% endcomment %}
 
@@ -70,15 +78,15 @@ For more detailed information, please visit the ["riscv-board-wandering" Github 
 
 The following are news related to this project:
 
-* September 13, 2024 | [Sophgo donates 22 sets of Milk-V Duo S development boards to the Wandering Project, supporting the Jiachen Project's ecosystem development (in Chinese)](https://mp.weixin.qq.com/s/hW5cz9xRgKOW8TSd99-iiw)
-* August 17, 2024 | [First in-person event invitation: RISC-V Dev Board On-Site Wandering by Chance | Co-event with the RISC-V Summit China (in Chinese)](https://mp.weixin.qq.com/s/OnyaD852fYBg45LEP7JcTQ)
-* August 6, 2024 | [Big move: Sipeed Technology donates 16 sets of LicheePi 4A devices to the director of the Jiachen Project, supporting the Wandering Project and the construction of the RISC-V Lab (in Chinese)](https://mp.weixin.qq.com/s/TRcwjkBkQZHVB3ea2zjmmQ)
-* July 30, 2024 | [Repository update, application form progress tracking added for increased transparency (in Chinese)](https://mp.weixin.qq.com/s/ckCxVb2JMUCRf_WA7m_vyA)
-* July 25, 2024 | [Nanjing Wandering Base receives its first personal developer donation, as Yan Shisan from the RT-Thead community donates 3 RISC-V development boards (in Chinese)](https://mp.weixin.qq.com/s/5lZJbYD8fFOWOK7fPnR2gA)
-* July 24, 2024 | [The first donation shipment of the RISC-V Dev Board Wandering Project: LicheePi 4A and Milk-V Duo 256M were sent to the first applicant (in Chinese)](https://mp.weixin.qq.com/s/jD9fw23z5VN6cGUm1qj8Jg)
-* July 15, 2024 | [Jiachen Project RISC-V Dev Board Wandering Project: Launch! inchitech and Milk-V begin trial operations of Wandering Bases (in Chinese)](https://mp.weixin.qq.com/s/lv6ucPFo3AmgUBW1MVfbUg)
-* July 5, 2024 | [Milk-V establishes the Shenzhen Wandering Base and donates Milk-V Jupiter development boards; Wandering leader KE Yiran makes an impressive appearance (in Chinese)](https://mp.weixin.qq.com/s/HKBeIifpa3ZfnhmRNkGxWQ)
-* July 4, 2024 | [Preview | Jiachen · RISC-V Dev Board Wandering Project is about to launch (in Chinese)](https://mp.weixin.qq.com/s/56nnVTRxVS51LWGylMOzoQ)
+- September 13, 2024 | [Sophgo donates 22 sets of Milk-V Duo S development boards to the Wandering Project, supporting the Jiachen Project's ecosystem development (in Chinese)](https://mp.weixin.qq.com/s/hW5cz9xRgKOW8TSd99-iiw)
+- August 17, 2024 | [First in-person event invitation: RISC-V Dev Board On-Site Wandering by Chance | Co-event with the RISC-V Summit China (in Chinese)](https://mp.weixin.qq.com/s/OnyaD852fYBg45LEP7JcTQ)
+- August 6, 2024 | [Big move: Sipeed Technology donates 16 sets of LicheePi 4A devices to the director of the Jiachen Project, supporting the Wandering Project and the construction of the RISC-V Lab (in Chinese)](https://mp.weixin.qq.com/s/TRcwjkBkQZHVB3ea2zjmmQ)
+- July 30, 2024 | [Repository update, application form progress tracking added for increased transparency (in Chinese)](https://mp.weixin.qq.com/s/ckCxVb2JMUCRf_WA7m_vyA)
+- July 25, 2024 | [Nanjing Wandering Base receives its first personal developer donation, as Yan Shisan from the RT-Thead community donates 3 RISC-V development boards (in Chinese)](https://mp.weixin.qq.com/s/5lZJbYD8fFOWOK7fPnR2gA)
+- July 24, 2024 | [The first donation shipment of the RISC-V Dev Board Wandering Project: LicheePi 4A and Milk-V Duo 256M were sent to the first applicant (in Chinese)](https://mp.weixin.qq.com/s/jD9fw23z5VN6cGUm1qj8Jg)
+- July 15, 2024 | [Jiachen Project RISC-V Dev Board Wandering Project: Launch! inchitech and Milk-V begin trial operations of Wandering Bases (in Chinese)](https://mp.weixin.qq.com/s/lv6ucPFo3AmgUBW1MVfbUg)
+- July 5, 2024 | [Milk-V establishes the Shenzhen Wandering Base and donates Milk-V Jupiter development boards; Wandering leader KE Yiran makes an impressive appearance (in Chinese)](https://mp.weixin.qq.com/s/HKBeIifpa3ZfnhmRNkGxWQ)
+- July 4, 2024 | [Preview | Jiachen · RISC-V Dev Board Wandering Project is about to launch (in Chinese)](https://mp.weixin.qq.com/s/56nnVTRxVS51LWGylMOzoQ)
 
 {% endcomment %}
 
@@ -98,9 +106,9 @@ Kubuds Technology plays a key role in convening and connecting the information s
 
 The following are news related to this project:
 
-* August 13, 2024 | [Building the RISC-V Supply Chain Security Cornerstone, Vulab Tech leads the launch of a new RISC-V open-source software and hardware security testing project (in Chinese)](https://mp.weixin.qq.com/s/BU4eqZ_-PsXcC0J93kxOAg)
-* August 9, 2024 | [Notice for the 001st paper reading activity of Offensive Paper Reading SIG | Jiachen Project (in Chinese)](https://mp.weixin.qq.com/s/BENL7ZK42qB8Pd8UwhqSEQ)
-* August 8, 2024 | [The Jiachen Project establishes the "Offensive Paper Reading SIG" with Kubuds Technology CEO Li Weiwei serving as the lead reader (in Chinese)](https://mp.weixin.qq.com/s/cvvnwCBBhPVGm5sTnEw9aw)
+- August 13, 2024 | [Building the RISC-V Supply Chain Security Cornerstone, Vulab Tech leads the launch of a new RISC-V open-source software and hardware security testing project (in Chinese)](https://mp.weixin.qq.com/s/BU4eqZ_-PsXcC0J93kxOAg)
+- August 9, 2024 | [Notice for the 001st paper reading activity of Offensive Paper Reading SIG | Jiachen Project (in Chinese)](https://mp.weixin.qq.com/s/BENL7ZK42qB8Pd8UwhqSEQ)
+- August 8, 2024 | [The Jiachen Project establishes the "Offensive Paper Reading SIG" with Kubuds Technology CEO Li Weiwei serving as the lead reader (in Chinese)](https://mp.weixin.qq.com/s/cvvnwCBBhPVGm5sTnEw9aw)
 
 {% endcomment %}
 
