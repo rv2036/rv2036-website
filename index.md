@@ -6,7 +6,7 @@ date: 2024-02-09T23:59:59-08:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.6"
-  overlay_image: /assets/images/rv2036-splash-13.png
+  overlay_image: /assets/images/rv2036-splash-13.webp
   actions:
     - label: "Join"
       url: "#" # TODO: need a new page for new members
@@ -19,7 +19,7 @@ intro:
   - excerpt: '<b>This is the best time for professionals working in computer architecture, compilers, and fundamental system software.</b>'
 
 feature_row_mission:
-  - image_path: /assets/images/rv2036-splash-10.png
+  - image_path: /assets/images/rv2036-splash-10.webp
     alt: "Mission"
     title: "Mission"
     excerpt: 'Jiachen Project aims to realize a mature RISC-V’s hardware and software ecosystem surpass to all other mainstream ISAs before 2036, the next year of Loong. This means mainstream-level maturity in applications such as datacenters, desktop computing, wearable technologies, and Internet of things - all implemented with systems of open ISA standards and open source system software stacks.<br/>The Mission is broken down into three core objectives for a zodiac cycle.'
@@ -28,7 +28,7 @@ feature_row_mission:
     btn_class: "btn--primary"
 
 feature_row_goals:
-  - image_path: /assets/images/rv2036-splash-7.png
+  - image_path: /assets/images/rv2036-splash-7.webp
     alt: "Objective A"
     title: "Objective A"
     excerpt: "Bringing a joint effort of over 100 chip companies and solution makers and over 500 software development firms, in order to port, optimize, and deliver ≥1,000 key commercial software packages across ≥18 key & fundamental industries. Ensure that every important commercial software application supports RISC-V.
@@ -36,7 +36,7 @@ feature_row_goals:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/rv2036-splash-2.png
+  - image_path: /assets/images/rv2036-splash-2.webp
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Objective B "
     title: "Objective B"
@@ -45,7 +45,7 @@ feature_row_goals:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/rv2036-splash-6.png
+  - image_path: /assets/images/rv2036-splash-6.webp
     alt: "Objective C"
     title: "Objective C"
     excerpt: "Establish a RISC-V talent recognition system, connecting over 10,000 professionals with expertise in RISC-V chip design, software development, community management, and education and training, to achieve mutual recognition and collaboration in the RISC-V talent field.
@@ -55,7 +55,7 @@ feature_row_goals:
     btn_class: "btn--primary"
 
 feature_row3:
-  - image_path: /assets/images/rv2036-splash-12.png
+  - image_path: /assets/images/rv2036-splash-12.webp
     alt: "placeholder image 2"
     title: "Placeholder Image Right Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
@@ -64,7 +64,7 @@ feature_row3:
     btn_class: "btn--primary"
 
 feature_row4:
-  - image_path: /assets/images/rv2036-splash-14.png
+  - image_path: /assets/images/rv2036-splash-14.webp
     alt: "placeholder image 2"
     title: "Placeholder Image Center Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
