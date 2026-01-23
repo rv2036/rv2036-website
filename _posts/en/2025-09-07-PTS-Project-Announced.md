@@ -1,10 +1,11 @@
 ---
 layout: single
-title:  "It’s time: The Jiachen Project has launched the construction of the RISC-V open source software Performance Tracking System (PTS)"
-date:   2025-09-07 18:18:18 +0800
+title: "It’s time: The Jiachen Project has launched the construction of the RISC-V open source software Performance Tracking System (PTS)"
+date: 2025-09-07 18:18:18 +0800
 categories: blog
 tags: projects infra news english
-permalink: blog/riscv-perf-tracking-system-launched
+permalink: /blog/riscv-perf-tracking-system-launched
+lang: en
 
 excerpt: "The idea of the RISC-V open source software performance tracking system (PTS) was first born in 2020 [1]."
 ---
@@ -16,6 +17,7 @@ It’s time: The Jiachen Project has launched the construction of the RISC-V ope
 The PTS is focusing on the performance evolution trend of the important global open source software RISC-V and publishing a roadmap; RISC-V manufacturers are sincerely invited to donate machines to participate in the construction
 
 ## Background, mission, and historical importance of PTS
+
 The idea of the RISC-V open source software performance tracking system (PTS) was first born in 2020 [1]. At that time, Mr. Wu Wei, the leader of the Jiachen Project, as the co-chair of the Code Speed SIG of the RISC-V International Foundation, hoped to build a visual system similar to Mozilla's `AreWeFastYet.com` system to track the performance of various important open source software including JavaScript Engines on RISC-V chips and systems. At that time, the development of RISC-V IP and chips was still focused on the embedded field, and there were only a few models of development boards that could run the Linux desktop environment, such as SiFive Unmatched.
 
 At the time, the PTS project was still quite advanced. The biggest concern was that prematurely disclosing the performance gap between RISC-V chips and Arm/X86 chips could have unintended negative consequences for the global RISC-V ecosystem.
@@ -33,11 +35,13 @@ The PTS will be hosted as an open source project under the Jiachen Project GitHu
 The following software is initially planned for monitoring. Software of interest to the RISC-V community will be added over time. Common performance benchmark suites include the SPEC CPU 20xx series and the CoreMark series. Different languages and execution environments have different test sets. By default, PTS will collect as many open source and free test sets as possible for tracking.
 
 **Compilation Toolchain**
+
 - GNU Toolchain: Includes performance of compilers for languages such as C/C++ and Fortran.
-- Clang/LLVM: Includes performance of compilers for languages such as Clang and Flang. 
+- Clang/LLVM: Includes performance of compilers for languages such as Clang and Flang.
 - Rust Toolchain
 
 **Virtual Machine**
+
 - V8
 - Spidermonkey
 - OpenJDK
@@ -47,11 +51,13 @@ The following software is initially planned for monitoring. Software of interest
 - .NET
 
 **Emulator**
+
 - QEMU
 - Box64
 - Wine-CE
 
 **System Libraries and Computing Libraries, Computing Stack**
+
 - glibc
 - musl-c
 - llvm libc
@@ -64,20 +70,24 @@ The following software is initially planned for monitoring. Software of interest
 ## Tracked RISC-V Chip/System Range
 
 **Main Test Machine (Sufficient Equipment)**
+
 - TH1520: Sipeed LicheePi 4A
 - SG2042: Milk-V PioneerBox
 
 **Standard Test Machine (At least one device with long-term stable use)**
+
 - EIC7700: Milk-V Megrez
 - K1: Sipeed LicheePi 3A
 
 **Expected Test Machine (No stable machine yet, but call (for donation)**
+
 - Sophgo SG2044
 - A210
 - SpacemiT K3
 - DP1000: Milk-V Titan
 
 ### Baseline Operating Systems
+
 - RevyOS: The default Debian distribution for the Xuantie IP series
 - KarsierOS: A commercially maintained distribution developed and maintained by Kuya Technology based on the openEuler community version
 - Ubuntu: Canonical natively supports some RISC-V development boards
@@ -85,7 +95,9 @@ The following software is initially planned for monitoring. Software of interest
 - openKylin: A member of the Jiachen Project community, with strong localization advantages in graphical user interfaces
 
 ## Comparison Baseline Selection
+
 PTS will gradually introduce the following hardware systems as reference comparisons for non-RISC-V architectures:
+
 - RaspberryPi 4B - 2025Q3
 - RaspberryPi 5 - 2025Q4 - call for donation
 - Mac mini with M1 - 2025Q4 - call for donation
@@ -97,6 +109,7 @@ PTS will gradually introduce the following hardware systems as reference compari
 Starting in 2025Q4, PTS will release the "RISC-V Performance Improvement Report" within 15 days of the end of each quarter.
 
 **2025Q3**
+
 - PTS construction begins.
 - The first batch of RISC-V devices go online (TH1520, SG2042, Xiangshan Nanhu single-core).
 - V8 enters PTS observation range.
@@ -108,7 +121,7 @@ Starting in 2025Q4, PTS will release the "RISC-V Performance Improvement Report"
 - Spidermonkey enters observation range.
 - GNU Toolchain enters observation range.
 - Clang/LLVM enters observation range.
-- SPEC CPU 2006/2017 enters observation range. 
+- SPEC CPU 2006/2017 enters observation range.
 - Xiangshan Nanhu quad-core launched
 - Super Rui DP100 (Milk-V Titan) launched
 - ESWIN EIC7700 SBC launched
@@ -122,31 +135,40 @@ Starting in 2025Q4, PTS will release the "RISC-V Performance Improvement Report"
 - Blue Core CPU launched (TBD)
 
 **2026Q2**
+
 - Test and evaluation equipment increased to 100 devices, covering over 20 types.
 - Common open source databases added to the test scope.
 - Stability testing added.
 
 **2026Q3**
+
 - Test equipment increased to 200 devices, completing testing of all popular databases.
 - All common HPC-related open source test suites added to the test scope.
 
 **2026Q4**
+
 - All data center-focused evaluation metrics now under observation.
 
 **2027Q1**
-- Entered stable maintenance status. 
+
+- Entered stable maintenance status.
 - Evaluate over 500 hardware devices, track over 100 software projects, and measure over 1,000 performance metrics.
 - Add at least two 128-core RISC-V processors.
 
 ## Collaboration with Open Source Communities and Teams
+
 Even after five years of preparation, this remains a massive undertaking, with much work to accomplish and explore. The Jiachen Project organizers welcome all developers and RISC-V-related teams interested in the project to join.
+
 ## Call for RISC-V Development Boards
+
 RISC-V chip and development board vendors are welcome to donate or loan equipment. Vendors participating in the Jiachen Project PTS will be able to more quickly observe the open source software community's support for their chips and hardware systems, promptly address performance regressions, and maintain their competitive advantage.
 
 ## Summary and Outlook
+
 RISC-V is a vibrant world, and we welcome you to join us! Let's complete RISC-V adaptation and optimization across all key industry sectors within a century, and build a network of over 10,000 top talents.
 
 ## References:
+
 - [1] https://lists.riscv.org/g/sig-code-speed/topic/slides_proposal_of_code/79032157
 - [2] https://arewefastyet.com/win11/benchmarks/overview?numDays=90
 - [3] https://github.com/rv2036

@@ -1,10 +1,11 @@
 ---
 layout: single
-title:  "里程碑！GitLab 合入 RISC-V Runner 支持"
-date:   2025-10-21 18:18:18 +0800
+title: "里程碑！GitLab 合入 RISC-V Runner 支持"
+date: 2025-10-21 18:18:18 +0800
 categories: blog
 tags: ecosystem news chinese
-permalink: blog/gitlab-runner-supports-riscv-cn
+permalink: /blog/gitlab-runner-supports-riscv
+lang: zh
 
 excerpt: "原生的 RISC-V runner 意味着更快的运行速度，更真实的测试环境，这在常见代码托管平台中[1]属于突破性进展。"
 ---
@@ -23,9 +24,8 @@ GitLab未来有望提供官方的 RISC-V 运行环境，缩短追平x86和Arm主
 
 ### 关于提交者 Meng Zhuo
 
-PLCT  Lab [7] 开发工程师，Go语言 RISC-V 架构 maintainer，关注 RISC-V 云原生相关应用发展。欢迎 follow 他的 Github[6]。
+PLCT Lab [7] 开发工程师，Go语言 RISC-V 架构 maintainer，关注 RISC-V 云原生相关应用发展。欢迎 follow 他的 Github[6]。
 profile](./profile.png)
-
 
 ### 参考链接
 

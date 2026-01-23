@@ -1,0 +1,23 @@
+<nav class="language-switcher">
+    <ul style="list-style:none;margin:0;padding:0;">
+        <li>
+            {%- assign site_url = site.url | strip -%}
+            {%- assign page_url = page.url | strip -%}
+
+            {%- if site.active_lang == "zh" -%}
+            {%- comment -%} 中文去英文 {%- endcomment -%}
+            {%- assign target_url = site_url | append: "/en" | append: page_url | replace: '//', '/' | replace:
+            'http:/', 'http://' -%}
+            <a href="javascript:void(0);" onclick="window.location.href='{{ target_url | strip }}';">
+                EN
+            </a>
+            {%- else -%}
+            {%- comment -%} 英文回中文{%- endcomment -%}
+            {%- assign target_url = site_url | append: page_url | replace: '//', '/' | replace: 'http:/', 'http://' -%}
+            <a href="javascript:void(0);" onclick="window.location.href='{{ target_url | strip }}';">
+                CN
+            </a>
+            {%- endif -%}
+        </li>
+    </ul>
+</nav>

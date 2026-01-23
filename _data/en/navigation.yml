@@ -1,0 +1,27 @@
+main:
+  - title: "Vision"
+    url: "#"
+  - title: "Members"
+    url: "/members"
+  - title: "Projects"
+    url: "/projects"
+  - title: "Blog"
+    url: "/blog"
+  - title: "Repositories"
+    url: "https://github.com/orgs/rv2036/repositories"
+    target: _blank
+  - title: "Forum"
+    url: "https://forum.rv2036.org"
+    target: _blank
+  # - title: "语言"
+  #   type: "language-switcher"
+  #   id: "language-switcher"
+  #   options:
+  #     - title: "中文"
+  #       value: "zh"
+  #       # 如果站点中文默认位于根路径，保留 "/" 或不写 url，让 JS 基于当前路径自动计算
+  #       url: "/"
+  #     - title: "English"
+  #       value: "en"
+  #       # 如果英文内容在 /en/ 前缀下，填写对应前缀
+  #       url: "/en/"

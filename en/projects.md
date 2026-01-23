@@ -2,7 +2,7 @@
 layout: splash
 title: Projects
 permalink: /projects
-lang: zh
+lang: en
 
 intro:
   - alt: "Projects under Jiachen Project"
