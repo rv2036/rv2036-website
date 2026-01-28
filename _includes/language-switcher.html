@@ -1,20 +1,20 @@
 <nav class="language-switcher">
     <ul style="list-style:none;margin:0;padding:0;">
         <li>
-            {%- assign site_url = site.url | strip -%}
-            {%- assign page_url = page.url | strip -%}
+            {%- comment -%} 获取当前路径，确保以 / 开头 {%- endcomment -%}
+            {%- assign current_path = page.url -%}
 
             {%- if site.active_lang == "zh" -%}
-            {%- comment -%} 中文去英文 {%- endcomment -%}
-            {%- assign target_url = site_url | append: "/en" | append: page_url | replace: '//', '/' | replace:
-            'http:/', 'http://' -%}
-            <a href="javascript:void(0);" onclick="window.location.href='{{ target_url | strip }}';">
+            {%- comment -%} 中文 -> 英文：直接在路径前加 /en {%- endcomment -%}
+            {%- assign target_path = current_path | prepend: "/en" | replace: "//", "/" -%}
+            <a href="javascript:void(0);" onclick="window.location.href='{{ target_path }}';">
                 EN
             </a>
             {%- else -%}
-            {%- comment -%} 英文回中文{%- endcomment -%}
-            {%- assign target_url = site_url | append: page_url | replace: '//', '/' | replace: 'http:/', 'http://' -%}
-            <a href="javascript:void(0);" onclick="window.location.href='{{ target_url | strip }}';">
+            {%- comment -%} 英文 -> 中文：去掉路径开头的 /en {%- endcomment -%}
+            {%- assign target_path = current_path | replace_first: '/en/', '/' | replace: '//', '/' -%}
+            {%- if target_path == "" -%}{%- assign target_path = "/" -%}{%- endif -%}
+            <a href="javascript:void(0);" onclick="window.location.href='{{ target_path }}';">
                 CN
             </a>
             {%- endif -%}
