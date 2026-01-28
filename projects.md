@@ -2,72 +2,73 @@
 layout: splash
 title: Projects
 permalink: /projects
+lang: zh
 
 intro:
-  - alt: "Projects under Jiachen Project"
-    title: "Projects under Jiachen Project"
+  - alt: "甲辰计划相关项目"
+    title: "甲辰计划相关项目"
 
 feature_row_cv184x:
   - image_path: /assets/images/rv2036-projects-cv184x.webp
-    alt: "CV184X Joint Develop Project"
-    title: "CV184X Joint Develop Project"
-    excerpt: "<strong>CV184X Joint Develop Project</strong> is a collaborative ecosystem development initiative under the Jiachen Project, focused on advancing the CV184X series AI vision processors through joint development efforts. This project brings together developers, companies, and community members to collectively enhance the CV184X ecosystem, software stacks, and application solutions.<br>The ecosystem development for CV184X is coordinated by the <strong>Jiachen Project</strong>, fostering collaboration among ecosystem partners to drive innovation and adoption of CV184X processors in various applications."
+    alt: "CV184X 联合开发项目"
+    title: "CV184X 联合开发项目"
+    excerpt: "<strong>CV184X 联合开发项目</strong> 是甲辰计划旗下的协作式生态开发倡议，致力于通过联合开发力量，推动 CV184X 系列 AI 视觉处理器的进阶与完善。本项目汇聚了开发者、企业及社区成员，共同强化 CV184X 的生态建设、软件栈优化及应用解决方案。<br><br>CV184X 的生态开发由甲辰计划统一协调，旨在促进生态伙伴间的深度协作，驱动 CV184X 处理器在各应用领域的创新与普及."
     url: "/cv184x"
-    btn_label: "Read More"
+    btn_label: "了解更多"
     btn_class: "btn--primary"
 
 feature_row_internship:
   - image_path: /assets/images/rv2036-projects-internship.webp
-    alt: "Open Source Internship Joint Recruitment and Training"
-    title: "Open Source Internship Joint Recruitment and Training"
-    excerpt: '<strong>Open Source Internship Joint Recruitment and Training</strong> was issued by Mr. Wei Wu, director of the Jiachen Project, to members of the Jiachen Project. The motive and starting point are "members use minimal financial and management resources to achieve accelerated development of RISC-V ecosystem goals that are beneficial to their own companies", drawing on the Jiachen Project director''s 10 years of experience in large-scale intern training, and leveraging work accumulated by the PLCT Lab in the open-source community.<br>Starting from the Year of the Dragon in the Jiachen cycle, more than 2,000 internship positions will be made available each year, with over 1,000 students recruited to participate in internships.'
+    alt: "开源实习联合招募与培养"
+    title: "开源实习联合招募与培养"
+    excerpt: "<strong>开源实习联合招募与培养</strong> 由甲辰计划主理人吴伟先生向全体成员发起。其初衷与出发点是“让成员单位以极少的资金与管理投入，加速实现对自身企业有利的 RISC-V 生态目标”。该项目借鉴了执行总监在规模化实习生培养方面积累的十年经验，并充分利用了 PLCT 实验室在开源社区深耕的技术成果。<br><br>自甲辰龙年起，本项目每年将提供超过 2000 个实习岗位，并计划招募逾 1000 名学生参与实习。"
     url: "https://mp.weixin.qq.com/s/TenVAVzaWuUWGIWodGaFKA"
-    btn_label: "Read More"
+    btn_label: "了解更多"
     btn_class: "btn--primary"
 
 feature_row_network:
   - image_path: /assets/images/rv2036-projects-network.webp
-    alt: "RISC-V Builder Mutual Recognition Network"
-    title: "RISC-V Builder Mutual Recognition Network"
-    excerpt: "Establishing the <strong>RISC-V Builder Mutual Recognition Network</strong> is one of the three main goals of the Jiachen Project. Unlike common certification systems, the RISC-V Builder Mutual Recognition Network is a fully trust-based network personally endorsed by the Jiachen Project director.<br>Its purpose is to build a RISC-V talent identification system that connects over 10,000 professionals with expertise in RISC-V chip design, software development, community operations, and education and training, enabling mutual recognition and collaboration in the RISC-V talent field."
+    alt: "RISC-V 建设者互认网络"
+    title: "RISC-V 建设者互认网络"
+    excerpt: "建立<strong>RISC-V 建设者互认网络</strong>是甲辰计划的三大核心目标之一。与常见的认证体系不同，该网络是一个完全基于信任的体系，由甲辰计划执行总监个人背书。<br><br>其宗旨是建立 RISC-V 人才识别体系，连接超过 1 万名具备芯片设计、软件开发、社区运营及教育培训能力的专业人才，实现人才领域的互认与协作。"
     url: "https://github.com/rv2036/jiachen-builders-network"
-    btn_label: "Read More"
+    btn_label: "了解更多"
     btn_class: "btn--primary"
 
 feature_row_wandering:
   - image_path: /assets/images/rv2036-projects-wandering.webp
-    alt: "RISC-V Dev Board Wandering Project"
-    title: "RISC-V Dev Board Wandering Project"
-    excerpt: "The <strong>RISC-V Dev Board Wandering Project</strong> is open to all developers and enthusiasts who wish to donate their unused RISC-V development boards, as well as those who would like to receive a RISC-V development board. Participants hold dual roles in this activity: while donating a board, they can also receive a board donated by someone else.<br>The Wandering Project operates with a point system. Donors earn points equivalent to the purchase price of the board upon completion of donation. Participants with sufficient points can receive RISC-V development boards donated by others for free."
+    alt: "RISC-V 开发板漂流计划"
+    title: "RISC-V 开发板漂流计划"
+    excerpt: "<strong>RISC-V 开发板漂流计划</strong> 面向所有希望捐赠闲置开发板或希望获取开发板的开发者与爱好者。参与者拥有双重身份：在捐赠的同时，也可领取他人捐出的板卡。<br><br>该计划采用积分制运行：捐赠者在完成后可获得等值于购买价格的积分，积分充足的参与者即可免费领取他人捐赠的 RISC-V 开发板。"
     url: "https://github.com/rv2036/riscv-board-wandering"
-    btn_label: "Read More"
+    btn_label: "了解更多"
     btn_class: "btn--primary"
 
 feature_row_opr:
   - image_path: /assets/images/rv2036-projects-opr.webp
-    alt: "Offensive Paper Reading SIG (OPR SIG)"
-    title: "Offensive Paper Reading SIG (OPR SIG)"
-    excerpt: "With the rapid promotion and application of RISC-V chips across various industries globally, issues related to chip microarchitecture and software security have also started attracting attention from the industry.<br>Unlike traditional large enterprises that heavily invest in security teams, the RISC-V ecosystem consists of many small and medium-sized enterprises. While they have a strong demand for security awareness, maintenance, detection, and prevention, they are also sensitive to the costs of security investments."
+    alt: "攻防论文研读特别兴趣小组 (OPR SIG)"
+    title: "攻防论文研读特别兴趣小组 (OPR SIG)"
+    excerpt: "随着 RISC-V 芯片在全球各行业的迅速普及，芯片微架构与软件安全问题逐渐受到业界关注。<br><br>不同于拥有庞大安全团队的大型企业，RISC-V 生态中活跃着大量中小型企业。他们在拥有强烈的安全意识、维护及防范需求的同时，也对安全投入的成本高度敏感。"
     url: "#"
-    btn_label: "Coming Soon"
+    btn_label: "敬请期待"
     btn_class: "btn--primary"
 
 feature_row_recognition:
   - image_path: /assets/images/rv2036-projects-recognition.webp
-    alt: "Open Source Contribution Recognition"
-    title: "Open Source Contribution Recognition"
-    excerpt: "In order to promote the security and reliability of open-source software projects across multiple dimensions, to give more recognition to open-source contributors, and to address the core issues regarding sponsorship decisions and bias prevention.<br>The vision is to ensure that every open-source software contributor receives reputation and financial rewards commensurate with the social value they generate."
+    alt: "开源贡献认可计划"
+    title: "开源贡献认可计划"
+    excerpt: "本项目旨在多维度提升开源软件项目的安全性与可靠性，给予开源贡献者更多认可，并解决赞助决策及消除偏见等核心问题。<br><br>我们的愿景是：确保每一位开源贡献者都能获得与其产生的社会价值相匹配的声望与经济回报。"
     url: "#"
-    btn_label: "Coming Soon"
+    btn_label: "敬请期待"
     btn_class: "btn--primary"
 
 feature_row_rvspoc:
   - image_path: /assets/images/rv2036-projects-rvspoc.webp
-    alt: "RISC-V Software Porting Championship"
-    title: "RISC-V Software Porting Championship"
-    excerpt: "The <strong>RISC-V Software Porting and Optimization Championship (RVSPOC)</strong> has been launched to accelerate the development of the RISC-V software ecosystem and attract more developers to join the RISC-V ecosystem.<br>The RVSPOC focuses on desktop and server software ecosystems and presents a series of public challenges in areas such as compilers, runtime environments, and AI software stacks."
+    alt: "RISC-V 软件移植大赛"
+    title: "RISC-V 软件移植大赛"
+    excerpt: "<strong>RISC-V 软件移植与优化大赛 (RVSPOC)</strong> 旨在加速 RISC-V 软件生态发展，吸引更多开发者加入。大赛聚焦桌面及服务器软件生态，在编译器、运行时环境及 AI 软件栈等领域发布了一系列公开挑战任务。"
     url: "https://rvspoc.org"
-    btn_label: "Read More"
+    btn_label: "了解更多"
     btn_class: "btn--primary"
 ---
 

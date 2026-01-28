@@ -5,7 +5,7 @@ description: Towards unprecedented prosperity for the RISC-V ecosystem before 20
 
 email: help@RV2036.org
 
-baseurl: /
+baseurl: ""
 
 url: "https://rv2036.org"
 
@@ -18,6 +18,15 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-polyglot
+
+# 语言设置
+languages: ["zh", "en"]
+default_lang: "zh"
+exclude_from_localizations: ["assets", "images", "css", "js"] # 这些资源不重复生成
+
+parallel_localization: false # # Windows 不支持 fork，关闭并行构建
+# permalink: /:lang/:path/
 
 exclude:
   - .sass-cache/
