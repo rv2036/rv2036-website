@@ -26,7 +26,7 @@ default_lang: "zh"
 exclude_from_localizations: ["assets", "images", "css", "js"] # 这些资源不重复生成
 
 parallel_localization: false # # Windows 不支持 fork，关闭并行构建
-permalink: /:lang/:path/
+# permalink: /:lang/:path/
 
 exclude:
   - .sass-cache/

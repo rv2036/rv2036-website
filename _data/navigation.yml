@@ -1,15 +1,15 @@
 main:
-  - title: "Vision"
-    url: '#'
-  - title: "Members"
-    url: '/members'
-  - title: "Projects"
-    url: '/projects'
-  - title: "Blog"
-    url: '/blog'
-  - title: "Repositories"
-    url: 'https://github.com/orgs/rv2036/repositories'
+  - title: "首页"
+    url: "#"
+  - title: "成员"
+    url: "/members"
+  - title: "项目"
+    url: "/projects"
+  - title: "新闻"
+    url: "/blog"
+  - title: "仓库"
+    url: "https://github.com/orgs/rv2036/repositories"
     target: _blank
-  - title: "Forum"
-    url: 'https://forum.rv2036.org'
+  - title: "论坛"
+    url: "https://forum.rv2036.org"
     target: _blank

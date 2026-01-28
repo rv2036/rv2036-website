@@ -1,3 +1,9 @@
+{% comment %} 根据当前活跃语言动态选择数据文件 {% endcomment %}
+{% if site.active_lang == "en" %}
+{% assign navigation_data = site.data.en.navigation.main %}
+{% else %}
+{% assign navigation_data = site.data.navigation.main %}
+{% endif %}
 <div class="masthead">
     <div class="masthead__inner-wrap">
         <div class="masthead__menu">
@@ -12,7 +18,7 @@
                     endif %}
                 </a>
                 <ul class="visible-links">
-                    {%- for link in site.data.navigation.main -%}
+                    {%- for link in navigation_data -%}
                     <li class="masthead__menu-item">
                         <a href="{{ link.url | relative_url }}" {% if link.description %} title="{{ link.description }}"
                             {% endif %} {% if link.target %} target="{{ link.target }}" {% endif %}>{{ link.title }}</a>
