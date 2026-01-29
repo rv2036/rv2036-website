@@ -10,10 +10,8 @@ lang: zh
 <div class="blog-list">
   {% for post in site.posts %}
     <div class="blog-item">
-    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </div>
-
-{% endfor %}
-
+  {% endfor %}
 </div>
