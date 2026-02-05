@@ -9,7 +9,7 @@ baseurl: ""
 
 url: "https://rv2036.org"
 
-remote_theme: mmistakes/minimal-mistakes@4.27.3
+remote_theme: rv2036/jekyll-theme-mm
 
 plugins:
   - jekyll-feed
