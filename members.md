@@ -60,7 +60,7 @@ permalink: /members
 | OSYX Technologies  | OSYX Technologies | [Official Website](https://osyx.tech/) | - | [Announcement](https://mp.weixin.qq.com/s/Q_kCc17Xt9ZPZmDeWe9xJw) |
 | （江苏）RISC-V开源芯片产业创新中心  | - | - | [Announcement](https://mp.weixin.qq.com/s/B475WusTKbxeW9qhbDyQCw) | [Repost](https://mp.weixin.qq.com/s/ELb30-XJxA4BvZAqnI4Ffw) |
 | 杭州芯芒科技有限公司  | SIMANGO | [Official Website](https://simango.cn) | [Announcement](https://mp.weixin.qq.com/s/zXcr_95OvYrwSAX-ud9XFA) | [Repost](https://mp.weixin.qq.com/s/N-5K-bE4TGHV6tylo2Qwog) |
-| Ignis Network  | Ignis Network | - | - | [Announcement](https://mp.weixin.qq.com/s/Yqg5GUTVZOct1qYQCNC7sA) |
+| Ignis Network  | Ignis Network | [Official Website](https://www.ignisnet.co/) | [Announcement](https://www.ignisnet.co/blog/ignis-joins-riscv-prosperity-2036/) | [Announcement](https://mp.weixin.qq.com/s/Yqg5GUTVZOct1qYQCNC7sA) |
 
 {% comment %}
 
