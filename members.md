@@ -52,6 +52,7 @@ permalink: /members
 | 中移物联网 OneOS  | CMIoT OneOS | [Official Website](https://os.iot.10086.cn) | [Announcement](https://os.iot.10086.cn/news/81) | [Repost](https://mp.weixin.qq.com/s/Zbxx2RiqRRvRlI5O8c4LMA) |
 | 思尔芯  | S2C | [Official Website](https://www.s2ceda.com/ch/) | [Announcement](https://www.s2ceda.com/ch/info-pr-479) | [Repost](https://mp.weixin.qq.com/s/_LvyNLavau6t0ZB_Ho6oGg) |
 | 亚科鸿禹  | HyperSilicon | [Official Website](http://www.hypersilicon.com) | [Announcement](https://mp.weixin.qq.com/s/xDni6dQ18Beajul_n-R0kw) | [Repost](https://mp.weixin.qq.com/s/e6EEk1NqMT1C5qpJENm0HA) |
+| 嘉楠科技  | Canaan | [Official Website](https://www.canaan.io) | [Announcement](https://mp.weixin.qq.com/s/piS1z60_iidiheRw_YsPKg) | [Repost](https://mp.weixin.qq.com/s/JMLkJx8DOQgX6m2ufOKW5g) |
 | Canonical | Canonical | [Official Website](https://canonical.com) | [Announcement](https://mp.weixin.qq.com/s/VZUOIFji7Hz_ws61f81Q-g) | [Repost](https://mp.weixin.qq.com/s/gryVUe4yTTuiPDyG4GUGHQ) |
 | 奕行智能 | EVAS Intelligence | [Official Website](https://www.evas.ai/about.html) | [Announcement](https://mp.weixin.qq.com/s/fnMw_6f4XzwyA351lyFKtA) | [Repost]() |
 | 光电通 | GuangDianTong | [Official Website](https://www.toec.com) | [Announcement](https://mp.weixin.qq.com/s/N-WVmMz9gG9u2Z_J5nbxTA) | [Repost](https://mp.weixin.qq.com/s/d6VVrqW4Xk9c8B39MMUnOg) |
