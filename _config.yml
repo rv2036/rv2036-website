@@ -52,6 +52,3 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rv2036"
-    - label: "Forum"
-      icon: "fab fa-fw fa-discourse"
-      url: "https://forum.rv2036.org"

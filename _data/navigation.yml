@@ -10,6 +10,3 @@ main:
   - title: "仓库"
     url: "https://github.com/orgs/rv2036/repositories"
     target: _blank
-  - title: "论坛"
-    url: "https://forum.rv2036.org"
-    target: _blank
