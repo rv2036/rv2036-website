@@ -1,6 +1,6 @@
 main:
   - title: "首页"
-    url: "#"
+    url: "/"
   - title: "成员"
     url: "/members"
   - title: "项目"

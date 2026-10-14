@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/images/rv2036-splash-13.webp
   actions:
     - label: "Join"
-      url: "#" # TODO: need a new page for new members
+      url: "/members"
   caption: "Jiachen Project"
 excerpt: "We firmly believe that RISC-V will become the global open standard for ISAs. Support from the global software ecosystem will surpass all existing ISAs before 2036. <br/>If you share this vision, you are welcome to join the Jiachen Project."
 
@@ -31,22 +31,21 @@ feature_row_goals:
     alt: "Universal Ecosystem Alignment"
     title: "Universal Ecosystem Alignment"
     excerpt: "Bringing a joint effort of over 100 chip companies and solution makers and over 500 software development firms, in order to port, optimize, and deliver ≥1,000 key commercial software packages across ≥18 key & fundamental industries. Ensure that every important commercial software application supports RISC-V."
-    url: "#test-link"
+    url: "/projects"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/rv2036-splash-2.webp
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Industry-Wide Deployment"
     title: "Industry-Wide Deployment"
     excerpt: "We help the industry develop commercially viable, deployable industry solutions based on RISC-V, including but not limited to areas such as AI acceleration, edge computing, storage, robotics, industrial simulation, and medical assistance. Ensure that every industry solution has a RISC-V alternative."
-    url: "#test-link"
+    url: "/projects"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/rv2036-splash-6.webp
     alt: "Building Talent Networks"
     title: "Building Talent Networks"
     excerpt: "Establish a RISC-V talent recognition system, connecting over 10,000 professionals with expertise in RISC-V chip design, software development, community management, and education and training, to achieve mutual recognition and collaboration in the RISC-V talent field."
-    url: "#test-link"
+    url: "/projects"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
