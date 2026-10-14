@@ -52,3 +52,15 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rv2036"
+  # Friend links to sibling community sites. Remove the list to hide the row.
+  friend_links:
+    - label: "HelloGCC / OSDT"
+      url: "https://hellogcc.org"
+    - label: "HelloLLVM"
+      url: "https://hellollvm.org"
+    - label: "CNRV"
+      url: "https://cnrv.io"
+    - label: "松竹梅计划"
+      url: "https://songzhumei-project.org"
+    - label: "PLCT Lab"
+      url: "https://plctlab.github.io"
