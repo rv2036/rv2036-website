@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/images/rv2036-splash-13.webp
   actions:
     - label: "加入我们"
-      url: "#" # TODO: need a new page for new members
+      url: "/members"
   caption: "Jiachen Project"
 excerpt: "我们坚信RISC-V会成为全球ISA的开放标准。全球所有的软件生态系统的支持将会在2036年之前超过所有现有ISA。<br/>如果你持有同样的观点，欢迎加入甲辰计划。"
 
@@ -31,22 +31,21 @@ feature_row_goals:
     alt: "全生态兼容"
     title: "全生态兼容"
     excerpt: "联合100家以上芯片及方案厂商、500家以上软件企业，在18个以上基础关键行业领域完成面向RISC-V的适配与优化，合作完成超过 1000 款重要行业及商业软件的移植与部署。确保每一款重要的商业软件都支持RISC-V。"
-    url: "#test-link"
+    url: "/projects"
     btn_label: "了解更多"
     btn_class: "btn--primary"
   - image_path: /assets/images/rv2036-splash-2.webp
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "多领域落地"
     title: "多领域落地"
     excerpt: "帮助业界完成基于RISC-V的、可以商业交付落地的行业解决方案，包括并且不限于AI加速、边缘计算、存储、机器人、工业仿真、医疗辅助等领域。确保每种行业解决方案都有基于 RISC-V 架构的替代方案。"
-    url: "#test-link"
+    url: "/projects"
     btn_label: "了解更多"
     btn_class: "btn--primary"
   - image_path: /assets/images/rv2036-splash-6.webp
     alt: "人才智库建设"
     title: "人才智库建设"
     excerpt: "建立RISC-V人才识别体系，连接超过1万名具备RISC-V芯片设计、软件开发、社区运营、教育培训专业人才，实现RISC-V人才领域的互认合作。"
-    url: "#test-link"
+    url: "/projects"
     btn_label: "了解更多"
     btn_class: "btn--primary"
 ---
