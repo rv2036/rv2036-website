@@ -186,5 +186,5 @@ body { line-height: 1.75; -webkit-font-smoothing: antialiased; }
 
 @media (max-width: 480px) {
   .site-subtitle { display: none; }
-  .site-title { font-size: 1rem; }
+  .site-title { font-size: 1rem; white-space: nowrap; }
 }
