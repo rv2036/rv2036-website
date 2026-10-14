@@ -30,7 +30,7 @@
                 <button class="search__toggle" type="button">
                     <span class="visually-hidden">{{ site.data.ui-text[site.locale].search_label | default: "Toggle
                         search" }}</span>
-                    <i class="fas fa-search"></i>
+                    {% include icon.html name="search" %}
                 </button>
                 {% endif %}
                 {% include language-switcher.html %}
