@@ -84,6 +84,7 @@ Table Row Template
 | Yukari Chiba | [YukariChiba](https://github.com/YukariChiba) | deepin & eweOS | Tier-1 support for RISC-V in most everyday software and linux distros | eweOS Developer, deepin Developer, deepin-ports SIG Maintainer |
 | Cryolitia PukNgae | [Cryolitia](https://github.com/Cryolitia) | Linux kernel & Nix | Enjoy making RISC-V hardwares and softwares | Linux kernel maintainer, NixOS member |
 | Evan Shen | [Evanshenf](https://github.com/Evanshenf) | openUBMC & RISC-V CPU/SoC RTL learning | Build and verify an open-source RISC-V management SoC | BMC firmware and embedded systems developer transitioning to digital IC design |
+| Xiaotao NAN | [Xiaotao NAN](https://github.com/xiaotaonan) | openJDK RISC-V Port & RISC-V CPU | RISC-V based JDK | openJDK Contributor/BishengJDK Committer |
 
 {% comment %}
 
